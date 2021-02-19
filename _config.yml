@@ -135,7 +135,7 @@ jsonContent:
 #   format: html
 #   limit: 10000
 
-# github_token:
+github_token: ''
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
